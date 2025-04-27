@@ -1,0 +1,110 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PlotCafé - Empowering Authors</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fff9f5;
+      color: #333;
+    }
+    header {
+      background-color: #ff6f61;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #ffe3d8;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .feature-box {
+      background: #fff;
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #ffe3d8;
+      color: #555;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    h1, h2 {
+      font-family: 'Georgia', serif;
+    }
+    .button {
+      background-color: #ff6f61;
+      color: white;
+      padding: 0.7rem 1.2rem;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+    .button:hover {
+      background-color: #e45b50;
+    }
+  </style>
+</head><body>
+  <header>
+    <h1>PlotCafé - With Quil Tea</h1>
+    <p>Your cozy corner for Writing, Feedback, and Publishing Dreams</p>
+  </header>  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#community">Community</a>
+    <a href="#join">Join Us</a>
+  </nav>  <section id="about">
+    <h2>About Us</h2>
+    <div class="feature-box">
+      <p>PlotCafé is a supportive community built for authors, by authors. Whether you're penning your first novel or preparing to publish your masterpiece, we're here to uplift you. Get weekly prompts, direct tasks, detailed feedback, mentorship every Sunday, and even guidance on self-publishing your book!</p>
+    </div>
+  </section>  <section id="services">
+    <h2>Our Offerings</h2>
+    <div class="feature-box">
+      <ul>
+        <li>📅 Weekly Writing Prompts</li>
+        <li>🖋️ Direct Writing Challenges</li>
+        <li>💬 2-Hour Feedback Sessions (Every Sunday)</li>
+        <li>🕊️ Mentorship Programs</li>
+        <li>📚 Book Publishing Help</li>
+        <li>👥 Supportive Writing Community</li>
+      </ul>
+    </div>
+  </section>  <section id="community">
+    <h2>Connect with Us</h2>
+    <div class="feature-box">
+      <p><strong>Reddit:</strong> @PlotCafé</p>
+      <p><strong>Discord Mod Team:</strong> @auvalen | @minority_huntr | @godisgrace123</p>
+      <a href="#join" class="button">Join the Family</a>
+    </div>
+  </section>  <section id="join">
+    <h2>Join Us Today!</h2>
+    <div class="feature-box">
+      <p>Ready to bring your stories to life? Find a home with PlotCafé. Learn, share, grow — and sip some Quil Tea along the way.</p>
+      <a href="#" class="button">Get Started</a>
+    </div>
+  </section>  <footer>
+    <p>© 2025 PlotCafé Community. Crafted with love and inspiration.</p>
+  </footer>
+</body>
+</html>
