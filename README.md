@@ -3,28 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PlotCafé | Signup</title>
+    <title>PlotCafé | Login</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body class="signup-page">
+<body class="login-page">
 
     <div class="form-container">
-        <h1>PlotCafé Signup</h1>
-        <form action="php/signup.php" method="POST">
-            <input type="text" name="username" placeholder="Username" required>
+        <h1>PlotCafé Login</h1>
+        <form action="php/login.php" method="POST">
             <input type="email" name="email" placeholder="Email" required>
             <input type="password" name="password" placeholder="Password" required>
-            <input type="text" name="discord" placeholder="Discord Username (optional)">
-            <input type="url" name="patreon" placeholder="Patreon Link (optional)">
-            <button type="submit">Sign Up</button>
+            <button type="submit">Login</button>
         </form>
 
         <div class="google-signup">
             <p>or</p>
-            <button class="google-btn">Sign up with Google</button>
+            <button class="google-btn">Login with Google</button>
         </div>
 
-        <p class="redirect">Already have an account? <a href="login.html">Login here</a></p>
+        <p class="redirect">Don't have an account? <a href="signup.html">Sign up here</a></p>
     </div>
 
 </body>
